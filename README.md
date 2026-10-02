@@ -75,7 +75,7 @@ A balanced slice across research, AI engineering and MLOps (these are my pinned 
 | Project | What it does | Stack |
 |---|---|---|
 | 🧠 **[langgraph-composio-agents](https://github.com/Sandyyy123/langgraph-composio-agents)** | 10 production LangGraph + Composio agentic workflows (sales, support, recruiting, compliance) | Python · LLM agents |
-| 🛰️ **[mlops-federated-learning-platform](https://github.com/Sandyyy123/mlops-federated-learning-platform)** | End-to-end MLOps: model registry, CI/CD, monitoring and federated learning | MLOps · DevOps |
+| 🛰️ **[mlops-federated-learning-platform](https://github.com/Sandyyy123/mlops-federated-learning-platform)** | End-to-end MLOps design: model registry, CI/CD, monitoring and containerised serving across ML modules | MLOps · DevOps |
 | 🛍️ **[rakuten-multimodal-classifier](https://github.com/Sandyyy123/rakuten-multimodal-classifier)** | Text + image fusion to classify e-commerce listings into 27 categories | PyTorch · multimodal |
 | 💊 **[drug-repurposing-pipeline](https://github.com/Sandyyy123/drug-repurposing-pipeline)** | Reproducible, validation-controlled drug-repurposing (AlphaFold3 / DiffDock / Vina / GROMACS) | Python · genomics |
 | 📊 **[business-survival-analysis](https://github.com/Sandyyy123/business-survival-analysis)** | Survival modelling (Kaplan-Meier, Cox PH, Random Survival Forest, CoxNAM) in R + Python | R · Python · stats |
