@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Dr. Sandeep Grover 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/Sandyyy123.png" width="160" alt="Sandeep Grover" />
-</p>
-
 <h3 align="center">Independent Scientist · Biostatistics, Epidemiology &amp; AI/ML Engineering</h3>
 
 <p align="center">
