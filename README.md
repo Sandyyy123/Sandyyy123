@@ -85,6 +85,8 @@ A balanced slice across research, AI engineering and MLOps (these are my pinned 
 
 ## 📚 Selected First-Author Publications
 
+<p align="left"><em>📊 2,242 citations · h-index 25 · i10-index 47 (Google Scholar, Oct 2026) · 66 works on ORCID</em></p>
+
 - **First GWAS reveals immune-mediated aetiopathology in idiopathic achalasia.** *Gut* (2026). &nbsp;`First author`
 - **GWAS and meta-analysis of age at onset in Parkinson disease (COURAGE-PD).** *Neurology* (2022). &nbsp;`First author`
 - **Replication of a novel Parkinson's locus (SV2C) in a European-ancestry population.** *Movement Disorders* (2021). &nbsp;`First author`
