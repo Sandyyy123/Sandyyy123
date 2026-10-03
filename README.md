@@ -39,7 +39,8 @@ I am a biomedical scientist, statistical geneticist and AI research engineer wor
 - **PhD, Biotechnology / Epidemiology** (CSIR-Institute of Genomics & Integrative Biology, Delhi, 2014)
 - **MSc, Molecular Biology & Biochemistry** (Guru Nanak Dev University, Silver Medallist)
 - **PG Diploma, Epidemiology** (Public Health Foundation of India)
-- **Data Science diploma**, Université Paris 1 Panthéon-Sorbonne (2026); ML Engineering / MLOps specialisation (2026)
+- **Machine Learning Engineer**, Université Paris 1 Panthéon-Sorbonne (2026)
+- **AI Engineering Fellowship**, Outskill / GrowthSchool (2026) - applied LLMs, RAG, agentic systems, Claude Code / MCP and AI-assisted ("vibe coding") app development
 - **ORCID:** [0000-0003-2615-4916](https://orcid.org/0000-0003-2615-4916)
 
 ---
@@ -50,7 +51,7 @@ I am a biomedical scientist, statistical geneticist and AI research engineer wor
 `GWAS` · `Mendelian randomization` · `Fine-mapping (SuSiE)` · `Colocalisation` · `eQTL/pQTL/sQTL` · `MR-PheWAS` · `PLINK` · `SAIGE` · `REGENIE` · `RNA-seq` · `single-cell` · `multi-omics`
 
 **AI / ML engineering**
-`Multi-agent orchestration` · `Multi-LLM context engineering` · `RAG + reranking + eval` · `LangChain` · `ChromaDB` · `PyTorch` · `scikit-learn` · `multimodal ML`
+`Multi-agent orchestration` · `Multi-LLM context engineering` · `RAG + reranking + eval` · `LangChain` · `Claude Code / MCP` · `ChromaDB` · `PyTorch` · `scikit-learn` · `multimodal ML`
 
 **MLOps / DevOps & infra**
 `MLflow` · `DVC` · `Docker` · `Kubernetes` · `Airflow` · `GitHub Actions` · `Prometheus` · `Grafana` · `Snakemake` · `Nextflow` · `HPC / SLURM`
